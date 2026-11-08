@@ -53,7 +53,7 @@ project-budget-performance-analytics/
 ## Quick start in Google Colab
 
 1. Upload this entire project to a GitHub repository, for example `project-budget-performance-analytics`.
-2. Open **[Google Colab](https://colab.research.google.com/)**, choose **GitHub**, paste the repository URL, then open `notebooks/00_colab_setup.ipynb`.
+2. Open **[Google Colab](https://colab.research.google.com/)**, choose **File** / **Open Notebook** / **GitHub**, paste the repository URL, then open `notebooks/00_colab_setup.ipynb`.
 3. Run the setup notebook's cells. The first cell clones your repo into `/content` and installs dependencies. To work with your own Excel workbooks, you may mount Google Drive and set `INPUT_DIR` to the folder containing the **four required filenames**.
 4. Open notebooks `01` through `05` in order. Each has a standalone initialization cell, so individual notebooks can run in fresh Colab sessions after setup.
 5. Review CSV reports saved in `outputs/` and update the notebook's source path when switching to your own files.
@@ -115,7 +115,7 @@ Keep the same file names and required column names, or adjust `src/business_anal
 
 ## Skills demonstrated
 
-**Python · pandas · Excel ETL · Data validation · Financial variance analysis · Schedule analytics · PMO KPIs · Reporting · Root-cause investigation framing · Automated testing**
+**Python · pandas · Excel · Data validation · Financial variance analysis · Schedule analytics · PMO KPIs · Reporting · Root-cause investigation framing · Automated testing**
 
 ## Limitations
 
@@ -123,5 +123,15 @@ Keep the same file names and required column names, or adjust `src/business_anal
 - Transaction costs are treated as available expenditure, not full earned-value accounting.
 - Open project delays depend on the reporting cutoff; this sample uses 2026-01-31.
 - Recommendations signal priorities for review; they do not prove why a variance occurred.
+
+### Required Python Libraries
+
+| Library | Version | Purpose |
+|---------|---------|---------|
+| pandas | >=2.0,<3.0 | Data cleaning, manipulation, and analysis |
+| numpy | >=1.24,<3.0 | Numerical calculations and array operations |
+| matplotlib | >=3.7,<4.0 | Data visualization and business charts |
+| openpyxl | >=3.1,<4.0 | Importing and exporting Excel files |
+| pytest | >=7,<10 | Automated testing and data validation |
 
 
