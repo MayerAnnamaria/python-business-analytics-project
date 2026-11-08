@@ -2,7 +2,7 @@
 
 **Python · Google Colab · pandas · Excel · Data Cleaning · PMO / Business Analytics**
 
-A reusable, end-to-end portfolio project that transforms realistic **synthetic IT and operations project data** into decisions about budget control and project delivery. Designed for a PMO analyst, business analyst, data analyst, or IT project coordinator interview.
+A reusable, end-to-end portfolio project that transforms realistic **synthetic IT and operations project data** into decisions about budget control and project delivery. Designed for a PMO analyst, business analyst, data analyst, or IT project coordinators.
 
 > **Data disclosure:** All included Excel workbooks are simulated for demonstration; no real employer records or proven cost savings are represented. Reports are reproducible with a fixed reference date (`2026-01-31`).
 
