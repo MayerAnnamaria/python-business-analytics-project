@@ -65,7 +65,7 @@ project-budget-performance-analytics/
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
-INPUT_DIR = '/content/drive/MyDrive/project-budget-performance-analytics/input'
+INPUT_DIR = '/content/drive/MyDrive/python-business-analytics-project/input'
 ```
 
 The input folder must contain `projects.xlsx`, `budget_plan.xlsx`, `actual_costs.xlsx`, and `milestones.xlsx` with the fields listed in [Data Dictionary](docs/data_dictionary.md). For your first run, use the included `data/sample/` files.
