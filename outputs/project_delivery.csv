@@ -1,0 +1,25 @@
+project_id,project_name,department,project_manager,status,start_date,planned_end_date,actual_end_date,priority,is_complete,delay_days,on_time,overdue_open,open_days_overdue,total_milestones,completed_milestones,late_milestones,late_milestone_pct
+PRJ-001,ERP integration – IT,IT,Alex Morgan,Completed,2025-01-14,2025-04-21,2025-04-09,Medium,True,-12.0,True,False,0,4,4,3,75.0
+PRJ-002,Cloud migration – Operations,Operations,Jordan Lee,Completed,2025-01-27,2025-05-21,2025-05-21,Medium,True,0.0,True,False,0,4,4,2,50.0
+PRJ-003,CRM rollout – Finance,Finance,Taylor Singh,Completed,2025-02-09,2025-06-20,2025-06-25,Medium,True,5.0,False,False,0,4,4,2,50.0
+PRJ-004,Reporting automation – Customer Service,Customer Service,Morgan Chen,Completed,2025-02-22,2025-07-20,2025-08-07,High,True,18.0,False,False,0,4,4,2,50.0
+PRJ-005,Service portal – Marketing,Marketing,Casey Novak,Completed,2025-03-07,2025-08-19,2025-09-14,Medium,True,26.0,False,False,0,4,4,3,75.0
+PRJ-006,Workflow redesign – HR,HR,Sam Rivera,Completed,2025-03-20,2025-09-18,2025-09-15,Medium,True,-3.0,True,False,0,4,4,3,75.0
+PRJ-007,Data quality uplift – IT,IT,Jamie Patel,Completed,2025-04-02,2025-10-18,2025-10-27,Medium,True,9.0,False,False,0,4,4,2,50.0
+PRJ-008,Vendor onboarding – Operations,Operations,Robin Adams,Completed,2025-04-15,2025-07-05,2025-07-05,High,True,0.0,True,False,0,4,4,2,50.0
+PRJ-009,ERP integration – Finance,Finance,Alex Morgan,Completed,2025-04-28,2025-08-04,2025-09-07,Medium,True,34.0,False,False,0,4,4,2,50.0
+PRJ-010,Cloud migration – Customer Service,Customer Service,Jordan Lee,Completed,2025-05-11,2025-09-03,2025-08-26,Medium,True,-8.0,True,False,0,4,4,3,75.0
+PRJ-011,CRM rollout – Marketing,Marketing,Taylor Singh,Completed,2025-05-24,2025-10-03,2025-10-05,Medium,True,2.0,False,False,0,4,4,3,75.0
+PRJ-012,Reporting automation – HR,HR,Morgan Chen,Completed,2025-06-06,2025-11-02,2025-11-14,High,True,12.0,False,False,0,4,4,2,50.0
+PRJ-013,Service portal – IT,IT,Casey Novak,Completed,2025-06-19,2025-12-02,2025-12-02,Medium,True,0.0,True,False,0,4,4,2,50.0
+PRJ-014,Workflow redesign – Operations,Operations,Sam Rivera,Completed,2025-01-13,2025-07-15,2025-08-07,Medium,True,23.0,False,False,0,4,4,2,50.0
+PRJ-015,Data quality uplift – Finance,Finance,Jamie Patel,Completed,2025-01-26,2025-08-14,2025-08-10,Medium,True,-4.0,True,False,0,4,4,3,75.0
+PRJ-016,Vendor onboarding – Customer Service,Customer Service,Robin Adams,In Progress,2025-02-08,2025-05-01,,High,False,,False,True,275,4,2,2,100.0
+PRJ-017,ERP integration – Marketing,Marketing,Alex Morgan,In Progress,2025-02-21,2025-05-31,,Medium,False,,False,True,245,4,2,2,100.0
+PRJ-018,Cloud migration – HR,HR,Jordan Lee,In Progress,2025-03-06,2025-06-30,,Medium,False,,False,True,215,4,2,1,50.0
+PRJ-019,CRM rollout – IT,IT,Taylor Singh,In Progress,2025-03-19,2025-07-30,,Medium,False,,False,True,185,4,2,0,0.0
+PRJ-020,Reporting automation – Operations,Operations,Morgan Chen,In Progress,2025-04-01,2025-08-29,,High,False,,False,True,155,4,2,1,50.0
+PRJ-021,Service portal – Finance,Finance,Casey Novak,In Progress,2025-04-14,2025-09-28,,Medium,False,,False,True,125,4,2,2,100.0
+PRJ-022,Workflow redesign – Customer Service,Customer Service,Sam Rivera,On Hold,2025-04-27,2025-10-28,,Medium,False,,False,True,95,4,1,1,100.0
+PRJ-023,Data quality uplift – Marketing,Marketing,Jamie Patel,On Hold,2025-05-10,2025-11-27,,Medium,False,,False,True,65,4,1,1,100.0
+PRJ-024,Vendor onboarding – HR,HR,Robin Adams,On Hold,2025-05-23,2025-08-14,,High,False,,False,True,170,4,1,0,0.0

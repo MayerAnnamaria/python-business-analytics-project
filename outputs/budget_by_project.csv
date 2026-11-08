@@ -1,0 +1,25 @@
+project_id,planned_budget,actual_cost,variance,variance_pct,project_name,department,status,budget_status
+PRJ-022,118600,130980.0,12380.0,10.4,Workflow redesign – Customer Service,Customer Service,On Hold,Over budget
+PRJ-011,83000,93752.51999999999,10752.519999999995,13.0,CRM rollout – Marketing,Marketing,Completed,Over budget
+PRJ-020,112100,122040.0,9939.999999999998,8.9,Reporting automation – Operations,Operations,In Progress,Over budget
+PRJ-016,99300,107177.52,7877.520000000004,7.9,Vendor onboarding – Customer Service,Customer Service,In Progress,Over budget
+PRJ-005,63600,70245.0,6645.0,10.4,Service portal – Marketing,Marketing,Completed,Over budget
+PRJ-021,115300,121802.49,6502.49,5.6,Service portal – Finance,Finance,In Progress,Over budget
+PRJ-014,92700,98607.48000000001,5907.480000000005,6.4,Workflow redesign – Operations,Operations,Completed,Over budget
+PRJ-003,57100,62160.0,5060.0,8.9,CRM rollout – Finance,Finance,Completed,Over budget
+PRJ-010,79800,84150.0,4350.0,5.5,Cloud migration – Customer Service,Customer Service,Completed,Over budget
+PRJ-004,60400,63792.51,3392.51,5.6,Reporting automation – Customer Service,Customer Service,Completed,Over budget
+PRJ-015,96000,99020.01,3020.0099999999966,3.1,Data quality uplift – Finance,Finance,Completed,Over budget
+PRJ-008,73300,76127.52,2827.5200000000004,3.9,Vendor onboarding – Operations,Operations,Completed,Over budget
+PRJ-019,108900,110390.01000000001,1490.010000000002,1.4,CRM rollout – IT,IT,In Progress,Over budget
+PRJ-002,53900,54634.979999999996,734.9799999999996,1.4,Cloud migration – Operations,Operations,Completed,Over budget
+PRJ-009,76500,76984.98,484.97999999999774,0.6,ERP integration – Finance,Finance,Completed,Over budget
+PRJ-013,89500,88492.5,-1007.5,-1.1,Service portal – IT,IT,Completed,On/under budget
+PRJ-012,86200,84540.0,-1660.0,-1.9,Reporting automation – HR,HR,Completed,On/under budget
+PRJ-007,70100,67547.49,-2552.51,-3.6,Data quality uplift – IT,IT,Completed,On/under budget
+PRJ-006,66900,63952.5,-2947.5,-4.4,Workflow redesign – HR,HR,Completed,On/under budget
+PRJ-001,50700,47590.020000000004,-3109.9799999999996,-6.1,ERP integration – IT,IT,Completed,On/under budget
+PRJ-024,125000,120467.52,-4532.4799999999905,-3.6,Vendor onboarding – HR,HR,On Hold,On/under budget
+PRJ-023,121800,116409.98999999999,-5390.0100000000075,-4.4,Data quality uplift – Marketing,Marketing,On Hold,On/under budget
+PRJ-018,105700,99219.99,-6480.01,-6.1,Cloud migration – HR,HR,In Progress,On/under budget
+PRJ-017,102500,95415.0,-7085.000000000002,-6.9,ERP integration – Marketing,Marketing,In Progress,On/under budget

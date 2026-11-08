@@ -1,0 +1,97 @@
+milestone_id,project_id,milestone_name,planned_date,actual_date,status,is_complete,milestone_delay_days,late_milestone
+MS-001-1,PRJ-001,Kickoff,2025-02-02,2025-02-09,Completed,True,7.0,True
+MS-001-2,PRJ-001,Requirements signed off,2025-02-22,2025-03-10,Completed,True,16.0,True
+MS-001-3,PRJ-001,Build & testing,2025-03-13,2025-03-16,Completed,True,3.0,True
+MS-001-4,PRJ-001,Go-live readiness,2025-04-02,2025-04-02,Completed,True,0.0,False
+MS-002-1,PRJ-002,Kickoff,2025-02-19,2025-03-07,Completed,True,16.0,True
+MS-002-2,PRJ-002,Requirements signed off,2025-03-14,2025-03-17,Completed,True,3.0,True
+MS-002-3,PRJ-002,Build & testing,2025-04-05,2025-04-05,Completed,True,0.0,False
+MS-002-4,PRJ-002,Go-live readiness,2025-04-28,2025-04-25,Completed,True,-3.0,False
+MS-003-1,PRJ-003,Kickoff,2025-03-07,2025-03-10,Completed,True,3.0,True
+MS-003-2,PRJ-003,Requirements signed off,2025-04-02,2025-04-02,Completed,True,0.0,False
+MS-003-3,PRJ-003,Build & testing,2025-04-29,2025-04-26,Completed,True,-3.0,False
+MS-003-4,PRJ-003,Go-live readiness,2025-05-25,2025-06-01,Completed,True,7.0,True
+MS-004-1,PRJ-004,Kickoff,2025-03-24,2025-03-24,Completed,True,0.0,False
+MS-004-2,PRJ-004,Requirements signed off,2025-04-22,2025-04-19,Completed,True,-3.0,False
+MS-004-3,PRJ-004,Build & testing,2025-05-22,2025-05-29,Completed,True,7.0,True
+MS-004-4,PRJ-004,Go-live readiness,2025-06-20,2025-07-06,Completed,True,16.0,True
+MS-005-1,PRJ-005,Kickoff,2025-04-09,2025-04-06,Completed,True,-3.0,False
+MS-005-2,PRJ-005,Requirements signed off,2025-05-12,2025-05-19,Completed,True,7.0,True
+MS-005-3,PRJ-005,Build & testing,2025-06-14,2025-06-30,Completed,True,16.0,True
+MS-005-4,PRJ-005,Go-live readiness,2025-07-17,2025-07-20,Completed,True,3.0,True
+MS-006-1,PRJ-006,Kickoff,2025-04-25,2025-05-02,Completed,True,7.0,True
+MS-006-2,PRJ-006,Requirements signed off,2025-06-01,2025-06-17,Completed,True,16.0,True
+MS-006-3,PRJ-006,Build & testing,2025-07-07,2025-07-10,Completed,True,3.0,True
+MS-006-4,PRJ-006,Go-live readiness,2025-08-13,2025-08-13,Completed,True,0.0,False
+MS-007-1,PRJ-007,Kickoff,2025-05-12,2025-05-28,Completed,True,16.0,True
+MS-007-2,PRJ-007,Requirements signed off,2025-06-21,2025-06-24,Completed,True,3.0,True
+MS-007-3,PRJ-007,Build & testing,2025-07-30,2025-07-30,Completed,True,0.0,False
+MS-007-4,PRJ-007,Go-live readiness,2025-09-08,2025-09-05,Completed,True,-3.0,False
+MS-008-1,PRJ-008,Kickoff,2025-05-01,2025-05-04,Completed,True,3.0,True
+MS-008-2,PRJ-008,Requirements signed off,2025-05-17,2025-05-17,Completed,True,0.0,False
+MS-008-3,PRJ-008,Build & testing,2025-06-03,2025-05-31,Completed,True,-3.0,False
+MS-008-4,PRJ-008,Go-live readiness,2025-06-19,2025-06-26,Completed,True,7.0,True
+MS-009-1,PRJ-009,Kickoff,2025-05-18,2025-05-18,Completed,True,0.0,False
+MS-009-2,PRJ-009,Requirements signed off,2025-06-06,2025-06-03,Completed,True,-3.0,False
+MS-009-3,PRJ-009,Build & testing,2025-06-26,2025-07-03,Completed,True,7.0,True
+MS-009-4,PRJ-009,Go-live readiness,2025-07-15,2025-07-31,Completed,True,16.0,True
+MS-010-1,PRJ-010,Kickoff,2025-06-03,2025-05-31,Completed,True,-3.0,False
+MS-010-2,PRJ-010,Requirements signed off,2025-06-26,2025-07-03,Completed,True,7.0,True
+MS-010-3,PRJ-010,Build & testing,2025-07-19,2025-08-04,Completed,True,16.0,True
+MS-010-4,PRJ-010,Go-live readiness,2025-08-11,2025-08-14,Completed,True,3.0,True
+MS-011-1,PRJ-011,Kickoff,2025-06-19,2025-06-26,Completed,True,7.0,True
+MS-011-2,PRJ-011,Requirements signed off,2025-07-16,2025-08-01,Completed,True,16.0,True
+MS-011-3,PRJ-011,Build & testing,2025-08-11,2025-08-14,Completed,True,3.0,True
+MS-011-4,PRJ-011,Go-live readiness,2025-09-07,2025-09-07,Completed,True,0.0,False
+MS-012-1,PRJ-012,Kickoff,2025-07-06,2025-07-22,Completed,True,16.0,True
+MS-012-2,PRJ-012,Requirements signed off,2025-08-05,2025-08-08,Completed,True,3.0,True
+MS-012-3,PRJ-012,Build & testing,2025-09-03,2025-09-03,Completed,True,0.0,False
+MS-012-4,PRJ-012,Go-live readiness,2025-10-03,2025-09-30,Completed,True,-3.0,False
+MS-013-1,PRJ-013,Kickoff,2025-07-22,2025-07-25,Completed,True,3.0,True
+MS-013-2,PRJ-013,Requirements signed off,2025-08-24,2025-08-24,Completed,True,0.0,False
+MS-013-3,PRJ-013,Build & testing,2025-09-27,2025-09-24,Completed,True,-3.0,False
+MS-013-4,PRJ-013,Go-live readiness,2025-10-30,2025-11-06,Completed,True,7.0,True
+MS-014-1,PRJ-014,Kickoff,2025-02-19,2025-02-19,Completed,True,0.0,False
+MS-014-2,PRJ-014,Requirements signed off,2025-03-27,2025-03-24,Completed,True,-3.0,False
+MS-014-3,PRJ-014,Build & testing,2025-05-03,2025-05-10,Completed,True,7.0,True
+MS-014-4,PRJ-014,Go-live readiness,2025-06-08,2025-06-24,Completed,True,16.0,True
+MS-015-1,PRJ-015,Kickoff,2025-03-07,2025-03-04,Completed,True,-3.0,False
+MS-015-2,PRJ-015,Requirements signed off,2025-04-16,2025-04-23,Completed,True,7.0,True
+MS-015-3,PRJ-015,Build & testing,2025-05-26,2025-06-11,Completed,True,16.0,True
+MS-015-4,PRJ-015,Go-live readiness,2025-07-05,2025-07-08,Completed,True,3.0,True
+MS-016-1,PRJ-016,Kickoff,2025-02-24,2025-03-03,Completed,True,7.0,True
+MS-016-2,PRJ-016,Requirements signed off,2025-03-13,2025-03-29,Completed,True,16.0,True
+MS-016-3,PRJ-016,Build & testing,2025-03-29,,Open,False,,False
+MS-016-4,PRJ-016,Go-live readiness,2025-04-15,,Open,False,,False
+MS-017-1,PRJ-017,Kickoff,2025-03-13,2025-03-29,Completed,True,16.0,True
+MS-017-2,PRJ-017,Requirements signed off,2025-04-02,2025-04-05,Completed,True,3.0,True
+MS-017-3,PRJ-017,Build & testing,2025-04-21,,Open,False,,False
+MS-017-4,PRJ-017,Go-live readiness,2025-05-11,,Open,False,,False
+MS-018-1,PRJ-018,Kickoff,2025-03-29,2025-04-01,Completed,True,3.0,True
+MS-018-2,PRJ-018,Requirements signed off,2025-04-21,2025-04-21,Completed,True,0.0,False
+MS-018-3,PRJ-018,Build & testing,2025-05-15,,Open,False,,False
+MS-018-4,PRJ-018,Go-live readiness,2025-06-07,,Open,False,,False
+MS-019-1,PRJ-019,Kickoff,2025-04-15,2025-04-15,Completed,True,0.0,False
+MS-019-2,PRJ-019,Requirements signed off,2025-05-11,2025-05-08,Completed,True,-3.0,False
+MS-019-3,PRJ-019,Build & testing,2025-06-07,,Open,False,,False
+MS-019-4,PRJ-019,Go-live readiness,2025-07-03,,Open,False,,False
+MS-020-1,PRJ-020,Kickoff,2025-05-01,2025-04-28,Completed,True,-3.0,False
+MS-020-2,PRJ-020,Requirements signed off,2025-05-31,2025-06-07,Completed,True,7.0,True
+MS-020-3,PRJ-020,Build & testing,2025-06-30,,Open,False,,False
+MS-020-4,PRJ-020,Go-live readiness,2025-07-30,,Open,False,,False
+MS-021-1,PRJ-021,Kickoff,2025-05-17,2025-05-24,Completed,True,7.0,True
+MS-021-2,PRJ-021,Requirements signed off,2025-06-20,2025-07-06,Completed,True,16.0,True
+MS-021-3,PRJ-021,Build & testing,2025-07-23,,Open,False,,False
+MS-021-4,PRJ-021,Go-live readiness,2025-08-26,,Open,False,,False
+MS-022-1,PRJ-022,Kickoff,2025-06-03,2025-06-19,Completed,True,16.0,True
+MS-022-2,PRJ-022,Requirements signed off,2025-07-10,,Open,False,,False
+MS-022-3,PRJ-022,Build & testing,2025-08-15,,Open,False,,False
+MS-022-4,PRJ-022,Go-live readiness,2025-09-21,,Open,False,,False
+MS-023-1,PRJ-023,Kickoff,2025-06-19,2025-06-22,Completed,True,3.0,True
+MS-023-2,PRJ-023,Requirements signed off,2025-07-29,,Open,False,,False
+MS-023-3,PRJ-023,Build & testing,2025-09-08,,Open,False,,False
+MS-023-4,PRJ-023,Go-live readiness,2025-10-18,,Open,False,,False
+MS-024-1,PRJ-024,Kickoff,2025-06-09,2025-06-09,Completed,True,0.0,False
+MS-024-2,PRJ-024,Requirements signed off,2025-06-25,,Open,False,,False
+MS-024-3,PRJ-024,Build & testing,2025-07-12,,Open,False,,False
+MS-024-4,PRJ-024,Go-live readiness,2025-07-28,,Open,False,,False

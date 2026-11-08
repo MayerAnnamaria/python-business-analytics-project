@@ -1,0 +1,97 @@
+project_id,cost_category,planned_budget,actual_cost,variance,variance_pct,budget_status
+PRJ-022,Labor,62400,74880.0,12480.0,20.0,Over budget
+PRJ-011,Labor,43700,53532.509999999995,9832.509999999995,22.5,Over budget
+PRJ-016,Labor,52200,61335.0,9135.0,17.5,Over budget
+PRJ-021,Labor,60700,68287.5,7587.5,12.5,Over budget
+PRJ-005,Labor,33500,40200.0,6700.0,20.0,Over budget
+PRJ-020,Software,28300,34667.49,6367.489999999998,22.5,Over budget
+PRJ-010,Labor,42000,48300.0,6300.0,15.0,Over budget
+PRJ-015,Labor,50500,55550.009999999995,5050.009999999995,10.0,Over budget
+PRJ-014,Software,23400,28080.0,4680.0,20.0,Over budget
+PRJ-019,Software,27500,31625.010000000002,4125.010000000002,15.0,Over budget
+PRJ-004,Labor,31800,35775.0,3975.0,12.5,Over budget
+PRJ-023,External Services,19200,23040.0,3840.0,20.0,Over budget
+PRJ-003,Software,14400,17640.0,3240.0,22.5,Over budget
+PRJ-008,Software,18500,21737.489999999998,3237.489999999998,17.5,Over budget
+PRJ-024,Software,31600,34760.01,3160.010000000002,10.0,Over budget
+PRJ-012,External Services,13600,16659.989999999998,3059.989999999998,22.5,Over budget
+PRJ-009,Labor,40300,43322.49,3022.489999999998,7.5,Over budget
+PRJ-020,Labor,59000,61950.0,2950.0,5.0,Over budget
+PRJ-017,External Services,16200,19035.0,2835.0,17.5,Over budget
+PRJ-013,Software,22600,25425.0,2825.0,12.5,Over budget
+PRJ-022,External Services,18700,21037.5,2337.5,12.5,Over budget
+PRJ-006,External Services,10600,12720.0,2120.0,20.0,Over budget
+PRJ-002,Software,13600,15639.99,2039.9899999999998,15.0,Over budget
+PRJ-018,Software,26700,28702.5,2002.5,7.5,Over budget
+PRJ-011,External Services,13100,15065.01,1965.0100000000002,15.0,Over budget
+PRJ-007,Software,17700,19470.0,1770.0,10.0,Over budget
+PRJ-021,Training,7300,8942.49,1642.4899999999998,22.5,Over budget
+PRJ-016,External Services,15700,17270.010000000002,1570.010000000002,10.0,Over budget
+PRJ-003,Labor,30100,31605.0,1505.0,5.0,Over budget
+PRJ-005,External Services,10000,11250.0,1250.0,12.5,Over budget
+PRJ-015,Training,6100,7320.0,1220.0,20.0,Over budget
+PRJ-014,Labor,48800,50019.990000000005,1219.9900000000052,2.5,Over budget
+PRJ-012,Software,21800,22890.0,1090.0,5.0,Over budget
+PRJ-020,Training,7100,8165.01,1065.0100000000002,15.0,Over budget
+PRJ-001,Software,12800,13760.01,960.0100000000002,7.5,Over budget
+PRJ-010,External Services,12600,13545.0,945.0,7.5,Over budget
+PRJ-021,External Services,18200,19110.0,910.0,5.0,Over budget
+PRJ-004,Training,3800,4655.01,855.0100000000002,22.5,Over budget
+PRJ-009,Training,4800,5640.0,840.0,17.5,Over budget
+PRJ-023,Software,30800,31569.989999999998,769.989999999998,2.5,Over budget
+PRJ-014,Training,5900,6637.5,737.5,12.5,Over budget
+PRJ-003,Training,3600,4140.0,540.0,15.0,Over budget
+PRJ-019,Training,6900,7417.5,517.5,7.5,Over budget
+PRJ-004,External Services,9500,9975.0,475.0,5.0,Over budget
+PRJ-008,Training,4600,5060.01,460.0100000000002,10.0,Over budget
+PRJ-006,Software,16900,17322.510000000002,422.51000000000204,2.5,Over budget
+PRJ-015,External Services,15200,15579.99,379.9899999999998,2.5,Over budget
+PRJ-013,Training,5700,5985.0,285.0,5.0,Over budget
+PRJ-002,Training,3400,3654.99,254.98999999999978,7.5,Over budget
+PRJ-024,Training,7900,8097.51,197.51000000000022,2.5,Over budget
+PRJ-007,Training,4400,4509.99,109.98999999999978,2.5,Over budget
+PRJ-008,Labor,38600,38600.01,0.010000000002037268,0.0,Over budget
+PRJ-001,Training,3200,3200.01,0.010000000000218279,0.0,Over budget
+PRJ-009,External Services,12100,12099.99,-0.010000000000218279,-0.0,On/under budget
+PRJ-018,Training,6700,6699.99,-0.010000000000218279,-0.0,On/under budget
+PRJ-017,Software,25900,25899.989999999998,-0.010000000002037268,-0.0,On/under budget
+PRJ-012,Training,5400,5265.0,-135.0,-2.5,On/under budget
+PRJ-006,Training,4200,3990.0,-210.0,-5.0,On/under budget
+PRJ-003,External Services,9000,8775.0,-225.0,-2.5,On/under budget
+PRJ-023,Training,7700,7314.99,-385.0100000000002,-5.0,On/under budget
+PRJ-020,External Services,17700,17257.5,-442.5,-2.5,On/under budget
+PRJ-017,Training,6500,6012.51,-487.4899999999998,-7.5,On/under budget
+PRJ-005,Training,4000,3500.01,-499.9899999999998,-12.5,On/under budget
+PRJ-011,Training,5200,4680.0,-520.0,-10.0,On/under budget
+PRJ-011,Software,21000,20475.0,-525.0,-2.5,On/under budget
+PRJ-002,Labor,28400,27690.0,-710.0,-2.5,On/under budget
+PRJ-014,External Services,14600,13869.99,-730.0100000000002,-5.0,On/under budget
+PRJ-005,Software,16100,15294.99,-805.0100000000002,-5.0,On/under budget
+PRJ-002,External Services,8500,7650.0,-850.0,-10.0,On/under budget
+PRJ-008,External Services,11600,10730.01,-869.9899999999998,-7.5,On/under budget
+PRJ-010,Training,5000,4125.0,-875.0,-17.5,On/under budget
+PRJ-022,Training,7500,6562.5,-937.5,-12.5,On/under budget
+PRJ-016,Training,6300,5355.0,-945.0,-15.0,On/under budget
+PRJ-001,External Services,8000,6600.0,-1400.0,-17.5,On/under budget
+PRJ-019,Labor,57300,55867.5,-1432.5,-2.5,On/under budget
+PRJ-022,Software,30000,28500.0,-1500.0,-5.0,On/under budget
+PRJ-007,External Services,11100,9435.0,-1665.0,-15.0,On/under budget
+PRJ-019,External Services,17200,15480.0,-1720.0,-10.0,On/under budget
+PRJ-013,External Services,14100,12337.5,-1762.5,-12.5,On/under budget
+PRJ-016,Software,25100,23217.510000000002,-1882.489999999998,-7.5,On/under budget
+PRJ-004,Software,15300,13387.5,-1912.5,-12.5,On/under budget
+PRJ-010,Software,20200,18180.0,-2020.0,-10.0,On/under budget
+PRJ-013,Labor,47100,44745.0,-2355.0,-5.0,On/under budget
+PRJ-001,Labor,26700,24030.0,-2670.0,-10.0,On/under budget
+PRJ-007,Labor,36900,34132.5,-2767.5,-7.5,On/under budget
+PRJ-018,External Services,16700,13777.5,-2922.5,-17.5,On/under budget
+PRJ-024,External Services,19700,16745.010000000002,-2954.989999999998,-15.0,On/under budget
+PRJ-009,Software,19300,15922.5,-3377.5,-17.5,On/under budget
+PRJ-015,Software,24200,20570.010000000002,-3629.989999999998,-15.0,On/under budget
+PRJ-021,Software,29100,25462.5,-3637.5,-12.5,On/under budget
+PRJ-024,Labor,65800,60864.990000000005,-4935.009999999995,-7.5,On/under budget
+PRJ-006,Labor,35200,29919.989999999998,-5280.010000000002,-15.0,On/under budget
+PRJ-018,Labor,55600,50040.0,-5560.0,-10.0,On/under budget
+PRJ-012,Labor,45400,39725.01,-5674.989999999998,-12.5,On/under budget
+PRJ-017,Labor,53900,44467.5,-9432.5,-17.5,On/under budget
+PRJ-023,Labor,64100,54485.009999999995,-9614.990000000005,-15.0,On/under budget
