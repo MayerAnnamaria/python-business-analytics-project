@@ -16,18 +16,18 @@ The project uses synthetic IT and operational project data to evaluate budget pe
 ```text
 python-business-analytics-project/
 │
-├── data/                          # Four Excel source datasets
-│   ├── projects.xlsx              # Project details and ownership
-│   ├── budget_plan.xlsx           # Planned project costs
-│   ├── actual_costs.xlsx          # Actual project expenditure
-│   └── milestones.xlsx            # Project milestone records
+├── data/                            # Four Excel source datasets
+│   ├── projects.xlsx                # Project details and ownership
+│   ├── budget_plan.xlsx             # Planned project costs
+│   ├── actual_costs.xlsx            # Actual project expenditure
+│   └── milestones.xlsx              # Project milestone records
 │
-├── notebooks/                     # Business analysis workflow
-│   ├── 00_colab_setup.ipynb        # Configure Colab and GitHub
-│   ├── 01_import_merge_excel.ipynb # Import and integrate Excel data
-│   ├── 02_data_cleaning.ipynb      # Clean and validate datasets
-│   ├── 03_budget_optimization.ipynb# Analyze budgets and cost drivers
-│   ├── 04_project_performance.ipynb# Analyze delivery and delays
+├── notebooks/                            # Business analysis workflow
+│   ├── 00_colab_setup.ipynb              # Configure Colab and GitHub
+│   ├── 01_import_merge_excel.ipynb       # Import and integrate Excel data
+│   ├── 02_data_cleaning.ipynb            # Clean and validate datasets
+│   ├── 03_budget_optimization.ipynb      # Analyze budgets and cost drivers
+│   ├── 04_project_performance.ipynb      # Analyze delivery and delays
 │   └── 05_business_recommendations.ipynb # Management actions
 │
 ├── src/business_analytics/         # Reusable Python analysis modules
